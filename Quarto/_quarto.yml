@@ -3,7 +3,7 @@ project:
   output-dir: ../docs
 
 website:
-  title: "Quarto"
+  title: "Iva Popovic"
   navbar:
     left:
       - href: index.qmd
